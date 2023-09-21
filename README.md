@@ -1,0 +1,3 @@
+- 👋 Hello ! Moi, c'est Maud
+- 👀 Je suis passionnée par la sociologie 
+- 🌱 Je travaille aujourd'hui sur l'analyse quantitative des effets de l'inflation sur la consommation en sociologie 
