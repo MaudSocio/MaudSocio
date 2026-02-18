@@ -1,3 +1,3 @@
 - 👋 Hello ! Moi, c'est Maud
-- 👀 Je suis en doctorat de sociologie
+- 👀 Je suis en doctorat de sociologie.
 - 🌱 Je travaille sur les récits de rêve. 
