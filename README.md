@@ -3,7 +3,7 @@ Welcome to my GitHub profile! Here's a little about me:
 
 * 🎓 I studied sociology at the École Normale Supérieure de Lyon, graduated with a master's in quantitative sociology from ENS Ulm, and spent time at Columbia University.
 * 🔬 Passionate about dreams, mentalities, and computational methods, sound processing with a focus on **NLP and sociology of inequalities and classes**.
-* 🌍 Currently based in Paris, pursuing a PhD at the [médialab Sciences Po](https://medialab.sciencespo.fr/equipe/maud-yaiche/) & Cresspa.
+* 🌍 Currently based in Paris, pursuing a PhD at the [médialab Sciences Po](https://medialab.sciencespo.fr/equipe/maud-yaiche/) & [Cresspa](https://www.cresppa.cnrs.fr/membre/yaiche-maud/)).
 * 📧 You can connect with me on [LinkedIn](https://www.linkedin.com/in/maud-ya%C3%AFche-0235271b5/).
 
 ## 🚀 PhD Research
