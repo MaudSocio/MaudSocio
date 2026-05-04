@@ -5,11 +5,12 @@ Welcome to my GitHub profile! Here's a little about me:
 * 🔬 Passionate about dreams, mentalities, and computational methods, sound processing with a focus on **NLP and sociology of inequalities and classes**.
 * 🌍 Currently based in Paris, pursuing a PhD at the [médialab Sciences Po](https://medialab.sciencespo.fr/equipe/maud-yaiche/) & Cresspa.
 * ✈️ Went around the world with a microphone, documenting feminist, anti-racist and inclusive initiatives across continents.
+Here is the podcast _[J'crois que la terre est ronde]_(https://www.trensistor.fr/category/faceb/jcqlter/)
 * 📧 You can connect with me on [LinkedIn](https://www.linkedin.com/in/maud-ya%C3%AFche-0235271b5/).
 
 ## 🚀 PhD Research
 
-* **[Sociology of Dream Narratives](https://medialab.sciencespo.fr/equipe/maud-yaiche/)** : Sociology PhD on oniric narratives — exploring how society shapes our dreams using NLP and statistical methods, under the supervision of Jean-Philippe Cointet & Nicolas Duvoux.
+* **[Sociology of Dream Narratives](https://medialab.sciencespo.fr/equipe/maud-yaiche/)** : Sociology PhD on oniric narratives. I explore how society shapes our dreams using NLP, sound processing and statistical methods, under the supervision of Jean-Philippe Cointet & Nicolas Duvoux.
 
 ## 📻 Radio
 
