@@ -14,7 +14,7 @@ Welcome to my GitHub profile! Here's a little about me:
 ## 📻 Radio
 
 * **[SENS — Trensistor](https://www.trensistor.fr/author/myaiche/)** : A sociology-meets-everyday-life radio show exploring emotions, strangeness, and social phenomena.
-* **[France Culture](https://www.radiofrance.fr/personnes/maud-yaiche) : I sometimes work for the radio
+* **[France Culture](https://www.radiofrance.fr/personnes/maud-yaiche)** : I sometimes work for the radio
 * **Tour du monde** : A round-the-world radio series documenting grassroots feminist and inclusive initiatives — from South Africa to Indonesia, Palestine to New Caledonia.
 
 Thanks for stopping by! Feel free to explore and reach out if you have any questions. 😄
