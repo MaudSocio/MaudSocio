@@ -12,7 +12,6 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## 📻 Radio
 
-* **[SENS — Trensistor](https://www.trensistor.fr/author/myaiche/)** : A sociology-meets-everyday-life radio show exploring emotions, strangeness, and social phenomena.
 * **[France Culture](https://www.radiofrance.fr/personnes/maud-yaiche)** : I sometimes work for the radio
 * **[J'crois que la terre est ronde](https://www.trensistor.fr/category/faceb/jcqlter/)** : A round-the-world radio series documenting grassroots feminist, interfaith, antiracist and inclusive initiatives : from South Africa to Indonesia to New Caledonia.
 
